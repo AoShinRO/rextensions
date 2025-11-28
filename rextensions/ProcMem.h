@@ -2,6 +2,7 @@
 #include "win32.h"
 #include <vector>
 #include <functional>
+#include <string>
 
 /* Helper class for searching process memory */
 

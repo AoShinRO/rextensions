@@ -8,8 +8,8 @@
 #include "targetver.h"
 #include "win32.h"
 
-#include "Detours Express 3.0\include\detours.h"
-#pragma comment(lib, "Detours Express 3.0\\lib.X86\\detours.lib")
+#include "D:/ragnarokbr/rextensions/Detours/include/detours.h"
+#pragma comment(lib, "D:\\ragnarokbr\\rextensions\\Detours\\lib.X86\\detours.lib")
 
 #include "buildconfig.h"
 

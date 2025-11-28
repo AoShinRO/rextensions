@@ -2,6 +2,7 @@
 #include <list>
 #include <map>
 #include <vector>
+#include <string>
 #include "enum.h"
 
 struct CFile
